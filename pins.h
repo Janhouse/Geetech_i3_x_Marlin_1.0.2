@@ -1376,13 +1376,13 @@
 #define Z_ENABLE_PIN 35
 
 #define HEATER_BED_PIN 3
-#define TEMP_BED_PIN 9
+#define TEMP_BED_PIN 10
 
 #define HEATER_0_PIN  2
 #define TEMP_0_PIN 8
 
 #define HEATER_1_PIN 4
-#define TEMP_1_PIN 10
+#define TEMP_1_PIN 9
 
 #define HEATER_2_PIN -1
 #define TEMP_2_PIN -1
